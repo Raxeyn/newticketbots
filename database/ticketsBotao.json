@@ -1,0 +1,32 @@
+{
+    "teste": {
+        "nome": "Cycle Ticket | cycleutilities.store | Sistema de Ticket",
+        "configs": {},
+        "permissoes": {},
+        "buttonConfig": {
+            "label": "Abrir Ticket",
+            "emoji": "👋",
+            "color": "Azul"
+        },
+        "configsAv": [
+            {
+                "SistemaModal": "Desligado",
+                "SistemaProtocolo": "Desligado",
+                "CategoriaSelecionada": "Desligado"
+            }
+        ],
+        "functions": [
+            {
+                "CriarCall": "Ligado",
+                "Poke": "Ligado",
+                "Assumir": "Ligado",
+                "Renomear": "Ligado",
+                "Pagamentos": "Ligado",
+                "GerenciarMembro": "Ligado"
+            }
+        ],
+        "guildId": "1217803911403147285",
+        "msgId": "1221621395986055279",
+        "channelId": "1221619521203212339"
+    }
+}
